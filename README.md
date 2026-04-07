@@ -36,12 +36,12 @@ The app reads a structure and a Cartesian Hessian, derives harmonic bond, angle,
 
 ## Included Binary
 
-- `hessff-gui-protected.exe`
+- `hessff-gui.exe`
 
 ## License
 
 This release is intended to be distributed under the MIT License.
 
-- See `LICENSE.txt` for the full license text.
+- See `LICENSE` for the full license text.
 - The MIT License allows binary-only distribution.
 - Keep the copyright and license notice with the release.
