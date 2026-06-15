@@ -33,7 +33,7 @@ The app reads a structure and a Cartesian Hessian, derives harmonic bond, angle,
 
 ## Notes
 
-There are two modes for CP2k: `weighted` and `unweighted`. The hessian files from CP2k are most probably unweighted. I tested this using hessian files for a molecule from both ORCA and CP2K and found that they both match assuming the hessian from CP2K to be unweighted. 
+There are two modes for CP2K: `weighted` and `unweighted`. The hessian files from CP2k are most probably unweighted. I tested this using hessian files for a molecule from both ORCA and CP2K and found that they both match assuming the hessian from CP2K to be unweighted. 
  
 
 ## License
